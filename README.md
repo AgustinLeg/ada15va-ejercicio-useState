@@ -4,8 +4,8 @@
 
 Crear un componente `CurrencyConverter` que
 
-- renderice dos `input` y un `p` para mostrar la conversion
-- a medida que se escribe en el input, actualice `p` con el precio convertido.
+- renderice dos `input`
+- a medida que se escribe en el input, actualice el otro `input` con el precio convertido.
 - La conversion debe ser de ARS a USD
 - [demo](https://www.google.com/search?q=peso+a+dolar&rlz=1C5CHFA_enAR1000AR1000&ei=-HYGZPizO-XL1sQPqtGE6Ag&oq=+peso&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAxgAMgcIABCxAxBDMgQIABBDMgcIABCxAxBDMgcIABCxAxBDMgcIABCxAxBDMgQIABBDMgcIABCxAxBDMgQIABBDMgcIABCxAxBDMgcIABCxAxBDOgoIABBHENYEELADOggIABCSAxCwAzoVCC4QxwEQ0QMQ1AIQyAMQsAMQQxgBOgwILhDIAxCwAxBDGAE6BggAEAcQHkoECEEYAFDgBVivCmDSEmgCcAF4AIABVYgBoAGSAQEymAEAoAEByAELwAEB2gEECAEYCA&sclient=gws-wiz-serp)
 
